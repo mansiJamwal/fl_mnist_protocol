@@ -1,0 +1,16 @@
+# Python environment and cache
+.venv-mnist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated protocol artifacts
+runtime/
+
+# Generated experiment outputs
+results/
+
+# Local environment files
+.env
+.env.*
+!.env.example
